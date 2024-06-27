@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+Projeto voltado para a organização das minhas despesas pessoais.
 
 ## Getting Started
 
