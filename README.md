@@ -1,6 +1,6 @@
 # expenses
 
-Projeto voltado para a organização das minhas despesas pessoais.
+Projeto voltado para a organização das minhas despesas pessoais. 
 
 ## Getting Started
 
