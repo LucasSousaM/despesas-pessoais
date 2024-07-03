@@ -6,7 +6,6 @@ import 'package:expenses/components/transaction_list.dart';
 import 'package:expenses/models/transaction.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 main() => runApp(ExpensiveApp());
 
@@ -80,37 +79,37 @@ class _MyHomePageState extends State<MyHomePage> {
       date: DateTime.now().subtract(Duration(days: 4)),
     ),
     Transaction(
-      id: 't0',
+      id: 't3',
       title: 'Conta Velha',
       value: 400.00,
       date: DateTime.now().subtract(Duration(days: 1)),
     ),
     Transaction(
-      id: 't1',
+      id: 't4',
       title: 'Tênis de corrida 1',
       value: 310.76,
       date: DateTime.now().subtract(Duration(days: 3)),
     ),
     Transaction(
-      id: 't2',
+      id: 't5',
       title: 'Conta de luz',
       value: 211.30,
       date: DateTime.now().subtract(Duration(days: 4)),
     ),
     Transaction(
-      id: 't0',
+      id: 't6',
       title: 'Conta Velha',
       value: 400.00,
       date: DateTime.now().subtract(Duration(days: 1)),
     ),
     Transaction(
-      id: 't1',
+      id: 't7',
       title: 'Tênis de corrida 1',
       value: 310.76,
       date: DateTime.now().subtract(Duration(days: 3)),
     ),
     Transaction(
-      id: 't2',
+      id: 't8',
       title: 'Conta de luz',
       value: 211.30,
       date: DateTime.now().subtract(Duration(days: 4)),
