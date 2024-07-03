@@ -1,6 +1,7 @@
 # expenses
 
 Projeto voltado para a organização das minhas despesas pessoais. 
+Projeto completo
 
 ## Getting Started
 
